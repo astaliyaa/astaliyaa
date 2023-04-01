@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TSMSHAFTY
-- 👀 I’m interested in Fortnite modding.
-- 🌱 I’m currently learning c++ and c#.
-- 📫 How to reach me @frazthayeeter on twitter.
+- 👋 Hi, I’m @astaliyaa
+- 👀 I’m interested in Backend Development (Express, Sanic)
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me: Discord: astaliya#4185 | Twitter: @lowbahh
 
 <!---
 TSMSHAFTY/TSMSHAFTY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
