@@ -4,4 +4,4 @@
 - 👋 Hi, I’m astaliya!
 - 👀 I’m interested in Reverse Engineering.
 - 🌱 I’m currently learning Golang.
-- 📫 How to reach me: Discord: [@.astaliya](https://discordapp.com/users/1105482794496442379)
+- 📫 How to reach me: Discord: @.astaliya
